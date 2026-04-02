@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="hu">
+<head>
+    <meta charset="UTF-8">
+    <title>Transzgenerációs problémák</title>
+    <style>
+        body {
+            background-color: #cce7ff; /* babakék */
+            font-family: Arial, sans-serif;
+            margin: 20px;
+            color: #333;
+        }
+        h1 {
+            text-align: center;
+        }
+        .container {
+            max-width: 800px;
+            margin: auto;
+        }
+        img {
+            width: 100%;
+            border-radius: 10px;
+            margin: 15px 0;
+        }
+        .box {
+            background: white;
+            padding: 15px;
+            border-radius: 10px;
+            margin-top: 20px;
+        }
+    </style>
+</head>
+<body>
+
+<div class="container">
+    <h1>Transzgenerációs problémák</h1>
+
+    <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Family_tree.jpg" alt="Családfa">
+
+    <div class="box">
+        <h2>Mi az a transzgenerációs trauma?</h2>
+        <p>
+            A transzgenerációs problémák olyan lelki minták és traumák,
+            amelyek generációról generációra öröklődnek a családokon belül.
+            Ezek lehetnek feldolgozatlan események, veszteségek vagy konfliktusok.
+        </p>
+    </div>
+
+    <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/Sad_child.jpg" alt="Szomorú gyermek">
+
+    <div class="box">
+        <h2>Hogyan hat ránk?</h2>
+        <p>
+            Ezek a minták befolyásolhatják a viselkedésünket,
+            kapcsolatainkat és érzelmi reakcióinkat, gyakran anélkül,
+            hogy tudnánk az okát.
+        </p>
+    </div>
+
+    <img src="https://upload.wikimedia.org/wikipedia/commons/5/5a/Therapy_session.jpg" alt="Terápia">
+
+    <div class="box">
+        <h2>Hogyan lehet feldolgozni?</h2>
+        <p>
+            A tudatosítás, önismeret és akár pszichológiai segítség
+            segíthet megszakítani ezeket a mintákat, és egészségesebb
+            életet kialakítani.
+        </p>
+    </div>
+
+</div>
+
+</body>
+</html>
